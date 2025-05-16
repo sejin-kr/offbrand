@@ -1,8 +1,4 @@
 {
-  "build": {
-    "command": "yarn build",
-    "outputDirectory": "dist"
-  },
   "rewrites": [
     {
       "source": "/(.*)",
