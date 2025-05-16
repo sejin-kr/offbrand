@@ -82,6 +82,7 @@ function Scene({ anim }) {
         distort={distort}
         wireframe={wireframe}
       > */}
+      {/* test */}
       <MeshDistortMaterial
         ref={setMaterial}
         emissive={'#ffffff'}
